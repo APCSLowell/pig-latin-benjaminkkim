@@ -75,5 +75,5 @@ public class PigLatin {
       }
     }
   }
-return "ERROR";
+	return "ERROR";
 }//end PigLatin class
