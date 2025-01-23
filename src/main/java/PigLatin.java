@@ -24,7 +24,7 @@ public class PigLatin {
         }
 	    System.out.println("there are " + lines.length + " lines");
 	    for (int i = 0 ; i < lines.length; i++) {
-	        System.out.println(pigLatin(lines[i]));
+	        System.out.println(PigLatin(lines[i]));
 	    }
     }
   public int findFirstVowel(String sWord) {
