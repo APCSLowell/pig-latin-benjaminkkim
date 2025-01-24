@@ -49,7 +49,7 @@ public class pigLatin {
   }
   return -1;
   }
-  public String PigLatin(String sWord) {
+  public String pigLatin(String sWord) {
   if(sWord.length() > 0) {
     //no vowels
     if(findFirstVowel(sWord) == -1) {
